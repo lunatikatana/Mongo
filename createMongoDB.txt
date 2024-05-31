@@ -1,0 +1,5 @@
+use mongoDB
+db.createCollections("Students")
+db.createCollections("Napravleniya")
+db.createCollections("Teachers")
+db.createCollections("raspisanie")

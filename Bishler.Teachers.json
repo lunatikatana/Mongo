@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6659dc8792b9725f02304bcc"
+  },
+  "full_name": "Иванова Ольга Трушина",
+  "email": "ivanova@example.com",
+  "phone_number": "123-456-7890",
+  "Predmet": "Экономика, Дизайн"
+},
+{
+  "_id": {
+    "$oid": "6659dc8792b9725f02304bcd"
+  },
+  "full_name": "Полухин Данила Андреевич",
+  "email": "Poluhin231@example.com",
+  "phone_number": "098-765-4321",
+  "Predmet": "Дизайн, Экономика"
+},
+{
+  "_id": {
+    "$oid": "6659e70d92b9725f02304c35"
+  },
+  "full_name": "Полухина Ольга Анатольевна",
+  "email": "Poluh48122@mail.ru",
+  "phone_number": "+79843548768",
+  "Predmet": "Физра"
+},
+{
+  "_id": {
+    "$oid": "6659e72592b9725f02304c36"
+  },
+  "full_name": "Парагон Никита Тимофеевич",
+  "email": "Paragon35172@mail.ru",
+  "phone_number": "+2412351252368",
+  "Predmet": "Дизайн, искусственный интелеект"
+},
+{
+  "_id": {
+    "$oid": "6659e74892b9725f02304c37"
+  },
+  "full_name": "Федотов Артем Тарасович",
+  "email": "fedottsaRT@mail.ru",
+  "phone_number": "+2512531267",
+  "Predmet": "экономика, тестирование"
+}]

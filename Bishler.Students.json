@@ -1,0 +1,1020 @@
+[{
+  "_id": {
+    "$oid": "6659dc0e92b9725f02304bc6"
+  },
+  "full_name": "Иванов Иван Иванович",
+  "date_of_birth": "1998-05-15",
+  "email": "ivanov@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659dc0e92b9725f02304bc7"
+  },
+  "full_name": "Петров Петр Петрович",
+  "date_of_birth": "1999-02-28",
+  "email": "petrov@example.com",
+  "group_id": 2,
+  "budget_status": "Внебюджет"
+},
+{
+  "_id": {
+    "$oid": "6659def492b9725f02304bd1"
+  },
+  "full_name": "Иванов Иван Иванович",
+  "date_of_birth": "1998-05-15",
+  "email": "ivanov@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e27692b9725f02304bd2"
+  },
+  "full_name": "Жук Николай Васильевич",
+  "date_of_birth": "1996-05-15",
+  "email": "juk231@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e27692b9725f02304bd3"
+  },
+  "full_name": "Важный Иван Бумажный",
+  "date_of_birth": "1995-05-15",
+  "email": "ivanovssh@example.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e27692b9725f02304bd4"
+  },
+  "full_name": "Негоден Владислав Петрович",
+  "date_of_birth": "2001-01-23",
+  "email": "ivanssanegoden@example.com",
+  "group_id": 3,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e2c292b9725f02304bd5"
+  },
+  "full_name": "Влаг Николай Васильевич",
+  "date_of_birth": "1999-05-05",
+  "email": "ju31@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e2c292b9725f02304bd6"
+  },
+  "full_name": "Логра Нико Шапурин",
+  "date_of_birth": "1999-05-15",
+  "email": "shapps@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e2c292b9725f02304bd7"
+  },
+  "full_name": "Годен Вова Вовович",
+  "date_of_birth": "2011-01-23",
+  "email": "Vovassq123@example.com",
+  "group_id": 5,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e2fe92b9725f02304bd8"
+  },
+  "full_name": "Сарказм Игорь Ваааав",
+  "date_of_birth": "1955-15-05",
+  "email": "Sarksa223@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e2fe92b9725f02304bd9"
+  },
+  "full_name": "Вин Дизель Воаоа",
+  "date_of_birth": "1999-05-15",
+  "email": "shegjhkdffsgdes@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e2fe92b9725f02304bda"
+  },
+  "full_name": "Джеки Чан Хуан",
+  "date_of_birth": "2055-01-23",
+  "email": "Vo23@example.com",
+  "group_id": 5,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e34192b9725f02304bdb"
+  },
+  "full_name": "Влажный Василий Петрович",
+  "date_of_birth": "1445-15-05",
+  "email": "Sa22512313@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e34192b9725f02304bdc"
+  },
+  "full_name": "Вин Дросель Воа",
+  "date_of_birth": "192-05-15",
+  "email": "shefss@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e34192b9725f02304bdd"
+  },
+  "full_name": "Ван Дан Клод",
+  "date_of_birth": "2045-01-23",
+  "email": "Vo2dsqwe223@example.com",
+  "group_id": 5,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e38192b9725f02304bde"
+  },
+  "full_name": "Жан Клод ВамДам",
+  "date_of_birth": "2000-15-05",
+  "email": "vamdam13@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e38192b9725f02304bdf"
+  },
+  "full_name": "Кириченко Василий Петрович",
+  "date_of_birth": "1999-05-15",
+  "email": "qwe27412s@example.com",
+  "group_id": 5,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e38192b9725f02304be0"
+  },
+  "full_name": "Никулин Петр Ян",
+  "date_of_birth": "2015-01-23",
+  "email": "V@example.com",
+  "group_id": 5,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e3d192b9725f02304be1"
+  },
+  "full_name": "Оагйцг ЩВлй Уйца",
+  "date_of_birth": "2000-15-05",
+  "email": "vУйваы3@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e3d192b9725f02304be2"
+  },
+  "full_name": "Колики Вас ИсДас",
+  "date_of_birth": "19949-05-15",
+  "email": "27462цук@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e3d192b9725f02304be3"
+  },
+  "full_name": "Никитин Владислав Артемович",
+  "date_of_birth": "2005-01-13",
+  "email": "Vasdqqqwliujhgдд@example.com",
+  "group_id": 4,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e40b92b9725f02304be4"
+  },
+  "full_name": "ООул Комбу Доржу",
+  "date_of_birth": "2001-15-05",
+  "email": "vhwqerwwqваы3@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e40b92b9725f02304be5"
+  },
+  "full_name": "Комбу Доржу Куулар",
+  "date_of_birth": "1999-05-25",
+  "email": "2ghquwheeee@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e40b92b9725f02304be6"
+  },
+  "full_name": "Власок Фласок Надо",
+  "date_of_birth": "2005-01-13",
+  "email": "Vasdqqq@example.com",
+  "group_id": 4,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e43792b9725f02304be7"
+  },
+  "full_name": "Анянова Марина Игоревна ",
+  "date_of_birth": "2001-15-05",
+  "email": "vhwqerwwqваjhwerы3@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e43792b9725f02304be8"
+  },
+  "full_name": "Байгужина Лилия Робертовна",
+  "date_of_birth": "1999-05-25",
+  "email": "2ghquwhsdfqweeeee@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e43792b9725f02304be9"
+  },
+  "full_name": "Богапова Анастасия Валерьевна",
+  "date_of_birth": "2005-01-13",
+  "email": "Vasdqqq@example.com",
+  "group_id": 4,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e45992b9725f02304bea"
+  },
+  "full_name": "Волков Максим Юрьевич ",
+  "date_of_birth": "2001-15-05",
+  "email": "vhwqe35654rwwqвы3@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e45992b9725f02304beb"
+  },
+  "full_name": "Деткина Валерия Олеговна",
+  "date_of_birth": "1999-05-25",
+  "email": "2gh567eee@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e45992b9725f02304bec"
+  },
+  "full_name": "Ерышева Анастасия Андреевна",
+  "date_of_birth": "2005-01-13",
+  "email": "Vashgqdqqq@example.com",
+  "group_id": 4,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e47d92b9725f02304bed"
+  },
+  "full_name": "Жигульская Мария Сергеевна",
+  "date_of_birth": "2011-15-05",
+  "email": "vhwwqвы3@example.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e47d92b9725f02304bee"
+  },
+  "full_name": "Каканов Евгений Дмитриевич ",
+  "date_of_birth": "1999-05-25",
+  "email": "2gh56fgh7eee@rexample.com",
+  "group_id": 4,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e47d92b9725f02304bef"
+  },
+  "full_name": "Карпич Юлия Владимировна ",
+  "date_of_birth": "2005-01-13",
+  "email": "Vash4124hhfghqq@example.com",
+  "group_id": 4,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4a592b9725f02304bf0"
+  },
+  "full_name": "Катерина Инна Александровна",
+  "date_of_birth": "2011-15-05",
+  "email": "vhы3@example.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4a592b9725f02304bf1"
+  },
+  "full_name": "Клемешов Артем Сергеевич",
+  "date_of_birth": "1999-05-25",
+  "email": "2ghe@rexample.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4a592b9725f02304bf2"
+  },
+  "full_name": "Корсун Вадим Артурович",
+  "date_of_birth": "2015-01-13",
+  "email": "Vash412hqq@example.com",
+  "group_id": 3,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4c692b9725f02304bf3"
+  },
+  "full_name": "Лазарева Татьяна Сергеевна",
+  "date_of_birth": "2011-15-05",
+  "email": "vh3@example.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4c692b9725f02304bf4"
+  },
+  "full_name": "КМаляров Семен Артемович",
+  "date_of_birth": "1999-05-25",
+  "email": "he@rexample.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4c692b9725f02304bf5"
+  },
+  "full_name": "Миронов Кирилл Алексеевич",
+  "date_of_birth": "2015-01-13",
+  "email": "Vahqq@example.com",
+  "group_id": 3,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4f792b9725f02304bf6"
+  },
+  "full_name": "Пшеничная Елизавета Антоновна",
+  "date_of_birth": "2011-15-05",
+  "email": "v123h3@example.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4f792b9725f02304bf7"
+  },
+  "full_name": "Савельев Андрей Андреевич",
+  "date_of_birth": "1999-05-25",
+  "email": "h123e@rexample.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e4f792b9725f02304bf8"
+  },
+  "full_name": "Самсонов Александр Вячеславович",
+  "date_of_birth": "2004-12-14",
+  "email": "Vqq@example.com",
+  "group_id": 3,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e51592b9725f02304bf9"
+  },
+  "full_name": "Серова Анна Андреевна ",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eewq23h3@example.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e51592b9725f02304bfa"
+  },
+  "full_name": "ССтасюк Анастасия Васильевна",
+  "date_of_birth": "1999-05-25",
+  "email": "h123asdqwee@rexample.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e51592b9725f02304bfb"
+  },
+  "full_name": "Толкачев Дмитрий Сергеевич ",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqweqq@example.com",
+  "group_id": 3,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e52c92b9725f02304bfc"
+  },
+  "full_name": "Уварова Анна Дмитриевна",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eewq23h3@example.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e52c92b9725f02304bfd"
+  },
+  "full_name": "Фазлетдинова Элина Маратовна",
+  "date_of_birth": "1999-05-25",
+  "email": "h123asdqwee@rexample.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e52c92b9725f02304bfe"
+  },
+  "full_name": "Фаизова Лиана Флюровна",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqweqq@example.com",
+  "group_id": 3,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e56692b9725f02304bff"
+  },
+  "full_name": "Ахмедбеков Эльдар Арсенович",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eewq23h3@example.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e56692b9725f02304c00"
+  },
+  "full_name": "Бовша Альберт Рустамович",
+  "date_of_birth": "1999-05-25",
+  "email": "h123asdqwee@rexample.com",
+  "group_id": 3,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e56692b9725f02304c01"
+  },
+  "full_name": "Богатикова Антонина Дмитриевна",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqweqq@example.com",
+  "group_id": 3,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e58592b9725f02304c02"
+  },
+  "full_name": "Горохов Степан Леонидович",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e58592b9725f02304c03"
+  },
+  "full_name": "Гусев Александр Семенович",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e58592b9725f02304c04"
+  },
+  "full_name": "Дзугаев Ахсарбек Станиславович",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e59392b9725f02304c05"
+  },
+  "full_name": "Загибалов Павел Дмитриевич\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e59392b9725f02304c06"
+  },
+  "full_name": "Землянов Константин Александрович\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e59392b9725f02304c07"
+  },
+  "full_name": "Игумеников Степан Владимирович\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5a392b9725f02304c08"
+  },
+  "full_name": "Каламбетов Даниил Эдуардович\t\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5a392b9725f02304c09"
+  },
+  "full_name": "Карданова Аида Аскеровна\t\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5a392b9725f02304c0a"
+  },
+  "full_name": "Кашина Оксана Алексеевна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5b192b9725f02304c0b"
+  },
+  "full_name": "Киреев Кирилл Александрович\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5b192b9725f02304c0c"
+  },
+  "full_name": "Коротких Анна Алексеевна\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5b192b9725f02304c0d"
+  },
+  "full_name": "Кудряшов Дмитрий Романович\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5c492b9725f02304c0e"
+  },
+  "full_name": "Мамлеева Аделина Ринатовна\t\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5c492b9725f02304c0f"
+  },
+  "full_name": "Маслеников Денис Олегович\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5c492b9725f02304c10"
+  },
+  "full_name": "Паршин Егор Ильич\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5d492b9725f02304c11"
+  },
+  "full_name": "Петровский Дмитрий Константинович\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5d492b9725f02304c12"
+  },
+  "full_name": "Подкользин Василий Борисович\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5d492b9725f02304c13"
+  },
+  "full_name": "Пушкарева Екатерина Константиновна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5e292b9725f02304c14"
+  },
+  "full_name": "Сабитов Тимур Ринатович\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5e292b9725f02304c15"
+  },
+  "full_name": "Саргсян Армен Микаелович\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5e292b9725f02304c16"
+  },
+  "full_name": "Соколова Ульяна Александровна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5ef92b9725f02304c17"
+  },
+  "full_name": "Стержантова Дарья Владимировна\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5ef92b9725f02304c18"
+  },
+  "full_name": "Толкачев Константин Александрович\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5ef92b9725f02304c19"
+  },
+  "full_name": "Цыганкова Мария Александровна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5fd92b9725f02304c1a"
+  },
+  "full_name": "Чумаченко Николай Владимирович\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5fd92b9725f02304c1b"
+  },
+  "full_name": "Якимов Евгений Андреевич\t\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e5fd92b9725f02304c1c"
+  },
+  "full_name": "Яковенко Елизавета Игоревна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e61392b9725f02304c1d"
+  },
+  "full_name": "Никифорова Екатерина Игоревна\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e61392b9725f02304c1e"
+  },
+  "full_name": "Ляпин Марат Наильевич\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 2,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e61392b9725f02304c1f"
+  },
+  "full_name": "Коночкина Маргарита Николаевна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 2,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e62a92b9725f02304c20"
+  },
+  "full_name": "Ахметкалиев Рауан\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e62a92b9725f02304c21"
+  },
+  "full_name": "Исадинов Диас\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e62a92b9725f02304c22"
+  },
+  "full_name": "Кривохижин Даниил\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 1,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e63792b9725f02304c23"
+  },
+  "full_name": "Аркунова Ирина Евгеньевна\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e63792b9725f02304c24"
+  },
+  "full_name": "Бондарев Никита Сергеевич\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e63792b9725f02304c25"
+  },
+  "full_name": "Бургулова Амина Саламатовна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 1,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e64592b9725f02304c26"
+  },
+  "full_name": "Васильев Никита Сергеевич\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e64592b9725f02304c27"
+  },
+  "full_name": "Корнийчук Павел Павлович\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e64592b9725f02304c28"
+  },
+  "full_name": "Ломоносова Александра Сергеевна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 1,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e65192b9725f02304c29"
+  },
+  "full_name": "Любин Даниил Артемович\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e65192b9725f02304c2a"
+  },
+  "full_name": "Лютый Дмитрий Игоревич\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e65192b9725f02304c2b"
+  },
+  "full_name": "Монина Дарья Ильинична\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 1,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e65e92b9725f02304c2c"
+  },
+  "full_name": "Парфенова Татьяна Ивановна\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e65e92b9725f02304c2d"
+  },
+  "full_name": "Лютый Дмитрий Игоревич\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e65e92b9725f02304c2e"
+  },
+  "full_name": "Полесский Максим Алексеевич\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 1,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e67492b9725f02304c2f"
+  },
+  "full_name": "Сёмин Михаил Максимович\t",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e67492b9725f02304c30"
+  },
+  "full_name": "Туманянц Эдвард Андроникович\t\t",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e67492b9725f02304c31"
+  },
+  "full_name": "Шалимова Виктория Сергеевна\t",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 1,
+  "budget_status": "ВнеБюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e6b692b9725f02304c32"
+  },
+  "full_name": "Зэк Николай Петрович",
+  "date_of_birth": "2011-15-05",
+  "email": "v12eew3@example.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e6b692b9725f02304c33"
+  },
+  "full_name": "Ушман Владимир Аюш",
+  "date_of_birth": "1999-05-25",
+  "email": "h1dqwee@rexample.com",
+  "group_id": 1,
+  "budget_status": "Бюджет"
+},
+{
+  "_id": {
+    "$oid": "6659e6b692b9725f02304c34"
+  },
+  "full_name": "Аюш Макар Никитич",
+  "date_of_birth": "2004-12-14",
+  "email": "Vdqw@example.com",
+  "group_id": 1,
+  "budget_status": "ВнеБюджет"
+}]
